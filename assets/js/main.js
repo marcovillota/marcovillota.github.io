@@ -11,3 +11,4 @@ parallax();
 activeMenu();
 updateCopyRightYear();
 sendEmail();
+changeLang();
