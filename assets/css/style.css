@@ -166,8 +166,8 @@ html {
 	transition: opacity 0.4s, visibility 0.4s;
 	.loader__logo {
 		color: #e94959;
-		width: 6rem;
-		height: 6rem;
+		width: 7rem;
+		height: 7rem;
 		animation: jump 1.1s infinite linear;
 	}
 }
@@ -202,10 +202,12 @@ html {
 		justify-content: space-between;
 
 		.navbar__logo {
+			margin-left: 1rem;
 			column-gap: 0.25rem;
+			
 			font-weight: var(--font-semi-bold);
 			color: var(--primary-color);
-			width: 90px;
+			width: 70px;
 			height: auto;
 		}
 
